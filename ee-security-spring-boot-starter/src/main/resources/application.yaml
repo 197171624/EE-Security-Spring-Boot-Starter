@@ -1,0 +1,16 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: ee-security-starter-demo
+  main:
+    banner-mode: console
+
+# 日志配置
+logging:
+  level:
+    com.ee.security: DEBUG
+    org.springframework.web: INFO
+  pattern:
+    console: "%d{yyyy-MM-dd HH:mm:ss} - %msg%n"

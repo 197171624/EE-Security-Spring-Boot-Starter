@@ -152,7 +152,7 @@ ee:
 
 ## 📄 许可证
 
-本项目采用 Apache License 2.0 许可证 - 查看 LICENSE 文件了解详情。
+本项目采用 Apache License 2.0 许可证 - 查看 [LICENSE 文件](https://github.com/197171624/EE-Security-Spring-Boot-Starter/blob/main/LICENSE)了解详情。
 
 ## ⭐ 支持项目
 
